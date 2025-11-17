@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm Amit Shakya 👋
 
-<!--
-**0-Amit-0/0-Amit-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Bachelor of Computer Applications (BCA) student passionate about building clean, efficient applications. I'm currently focused on expanding my portfolio with new and challenging projects.
 
-Here are some ideas to get you started:
+* 🌱 I’m currently learning: **[A new skill you're excited about, e.g., Next.js, AI fundamentals, etc.]**
+* 💼 I have academic project experience with Node.js and React
+* 📫 How to reach me: https://www.linkedin.com/in/amit-shakya-800779391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 💻 My Tech Stack
+
+* **Languages:**
+    * Python
+    * Java
+    * JavaScript
+    * C
+    * C++
+    * HTML
+    * CSS
+* **Frameworks & Libraries:**
+    * Node.js
+    * React
+* **Databases:**
+    * [Add any you've used, e.g., MySQL, MongoDB]
+* **Tools:**
+    * Git & GitHub
+    * [Add any others, e.g., VS Code, Figma]
