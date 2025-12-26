@@ -22,10 +22,12 @@ I am a Bachelor of Computer Applications (BCA) student passionate about building
     * Node.js
     * React
 * **Databases:**
-    * [Add any you've used, e.g., MySQL, MongoDB]
+    * MySQL
+    * PostgreSQL
 * **Tools:**
     * Git & GitHub
-    * [Add any others, e.g., VS Code, Figma]
+    * VS Code
+    * Figma
 
 
 ---
