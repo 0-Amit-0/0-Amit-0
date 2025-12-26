@@ -26,3 +26,18 @@ I am a Bachelor of Computer Applications (BCA) student passionate about building
 * **Tools:**
     * Git & GitHub
     * [Add any others, e.g., VS Code, Figma]
+
+
+---
+
+## 🚀 Featured Projects
+
+### 📝 [Task Manager - Full Stack Web App](https://task-manager-fullstack-tau.vercel.app/)
+* **Live Demo:** [View Website](https://task-manager-fullstack-tau.vercel.app/)
+* **Tech:** Node.js, Express, JavaScript, Tailwind CSS.
+* **Highlight:** A complete CRUD application with a decoupled frontend and backend architecture.
+
+### 🧠 [Quiz App - Flutter Mobile App](https://github.com/0-Amit-0/quiz-app-flutter)
+* **Project Source:** [View Code](https://github.com/0-Amit-0/quiz-app-flutter)
+* **Tech:** Dart, Flutter, OpenTrivia API, SharedPreferences.
+* **Highlight:** Features a 15-second countdown timer, local high-score tracking, and dynamic API integration.
