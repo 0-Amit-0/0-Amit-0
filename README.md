@@ -34,7 +34,7 @@ I am a Bachelor of Computer Applications (BCA) student passionate about building
 
 ### 📝 [Task Manager - Full Stack Web App](https://task-manager-fullstack-tau.vercel.app/)
 * **Live Demo:** [View Website](https://task-manager-fullstack-tau.vercel.app/)
-* Note: The backend is hosted on a free tier. Please allow 30 seconds for the server to wake up on the first load
+> *Note: The backend is hosted on a free tier. Please allow 30 seconds for the server to wake up on the first load.*
 * **Tech:** Node.js, Express, JavaScript, Tailwind CSS.
 * **Highlight:** A complete CRUD application with a decoupled frontend and backend architecture.
 
