@@ -2,7 +2,8 @@
 
 I am a Bachelor of Computer Applications (BCA) student passionate about building clean, efficient applications. I'm currently focused on expanding my portfolio with new and challenging projects.
 
-* 🌱 I’m currently learning: **[A new skill you're excited about, e.g., Next.js, AI fundamentals, etc.]**
+* 🌱 I’m currently learning: SQL query optimization , Modern framework, Machine learning 
+  
 * 💼 I have academic project experience with Node.js and React
 * 📫 How to reach me: https://www.linkedin.com/in/amit-shakya-800779391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
